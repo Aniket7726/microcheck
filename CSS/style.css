@@ -1,0 +1,265 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url(../CSS/Roboto-Light.ttf);
+}
+
+@font-face {
+    font-family: poppins;
+    src: url(../CSS/Poppins-Regular.ttf);
+}
+
+p{
+    font-family: roboto !important;
+}
+
+h2{
+    font-family: poppins !important;
+}
+
+nav{
+    background-color: #0b3823;
+}
+
+nav a{
+    font-family: roboto;
+    font-weight: 700 !important;
+}
+
+
+
+button{
+    background-color: #198150;
+    padding: 8px 15px;
+    width: fit-content;
+    border: 1px solid #ffffff;
+}
+
+button a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: roboto;
+    font-weight: 700;
+}
+
+button:hover{
+    background-color: #ffffff;
+    transition: 30ms;
+    padding: 8px 15px;
+    width: fit-content;
+    border: 1px solid #0b3823;
+}
+
+button:hover a{
+    color: #0b3823;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: roboto;
+    font-weight: 700;
+}
+
+.future{
+    padding-top: 6rem;
+    background-color: #0b3823;
+}
+
+.future h2{
+    color: #ffffff;
+    font-size: 55px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.future p{
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.future h6{
+    font-family: roboto;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.service span{
+    background-color: #f0f4f6 !important;
+    padding: 10px;
+    border-radius: 100px;
+}
+
+.service h2{
+    font-family: poppins;
+    font-size: 42px;
+    font-weight: 600;
+}
+
+.service h6{
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.service p{
+    font-size: 16px;
+    font-family: roboto;
+    font-weight: 400;
+    color: #000;
+}
+
+.service .box{
+    border: 1px solid;
+    padding: 40px 20px;
+}
+
+.service .box:hover{
+    background-color: #198150;
+}
+
+.service .box:hover h6{
+    color: #fff;
+}
+
+.service .box:hover p{
+    color: #fff;
+}
+
+.patient h2{
+    font-weight: 600;
+    padding-bottom:20px;
+}
+
+.analyze h2{
+    font-weight: 600;
+    padding-bottom:20px;
+}
+
+.slide{
+    background-color: #198150;
+    padding: 90px 0px;
+}
+
+.slide img{
+    padding-bottom: 10px;
+}
+
+.slide p{
+    color: #fff;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.slide span{
+    font-size: 22px;
+    font-weight: 800;
+    padding-right: 5px;
+}
+
+.form .container{
+    background-color: #fff;
+    border: 2px solid #ffffff;
+    box-shadow: 0px 5px 10px 0px rgba(0, 47, 104, 0.1);
+    margin-top: -120px;
+}
+
+.form h2{
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 24px;
+    color: #242429;
+}
+
+.form input{
+    padding: 10px;
+    border: 1px solid #242429;
+}
+
+.form textarea{
+    padding: 10px;
+}
+
+.form select{
+    padding: 10px;
+    border: 1px solid #242429;
+}
+
+.bg_video{
+    background-image: url(../Images/video_bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+}
+
+.bg_video h2{
+    color: #fff;
+    font-weight: 800;
+    font-family: poppins;
+    font-size: 42px;
+    font-style: normal;
+}
+
+.bg_video i{
+    color: #ffffff;
+    font-size: 60px;
+}
+
+.blog h2{
+    font-size: 42px;
+    font-weight: 700;
+    color: #242429;
+    font-family: poppins;
+}
+
+.blog p{
+    font-size: 17px;
+    font-family: roboto;
+    font-weight: 500;
+    color: #7f7f7f;
+}
+
+.blog a{
+    text-decoration: none;
+}
+
+.blog h3{
+    color: #000;
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 10px;
+}
+
+.foot{
+    background-color: #f3f6f7;
+}
+
+.foot a{
+    color: #939fb7;
+    font-family: roboto;
+    display: block;
+    text-decoration: none;
+    padding: 8px 0px;
+    font-style: normal;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.foot h3{
+    font-family: poppins;
+    font-size: 22px;
+    color: #000;
+    font-weight: 700;
+}
