@@ -263,3 +263,73 @@ button:hover a{
     color: #000;
     font-weight: 700;
 }
+
+.about_top{
+    background: #198150;
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about_top .container{
+    height: 300px;
+}
+
+.about_top h2{
+    font-family: poppins;
+    font-size: 50px;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.about h2{
+    font-weight: 600;
+    font-size: 42px;
+    font-style: normal;
+    color: #242429;
+}
+
+.mission h2{
+    font-size: 30px;
+    font-weight: 600;
+    color: #242929;
+    font-family: poppins;
+}
+
+.mission p{
+    font-size: 17px;
+    font-family: roboto;
+    color: #242929;
+    font-weight: 500;
+}
+
+.vission h2{
+    font-size: 30px;
+    font-weight: 600;
+    color: #242929;
+    font-family: poppins;
+}
+
+.vission p{
+    font-size: 17px;
+    font-family: roboto;
+    color: #242929;
+    font-weight: 500;
+}
+
+.form_location .box{
+    padding: 30px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 47, 104, 0.1);
+} 
+
+.form_location i{
+    font-size: 24px;
+    color: #7f7f7f;
+}
+
+.form_location h6{
+    font-size: 16px;
+    font-family: poppins;
+    font-weight: 600;
+}
