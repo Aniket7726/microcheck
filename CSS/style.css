@@ -333,3 +333,82 @@ button:hover a{
     font-family: poppins;
     font-weight: 600;
 }
+
+.serv a{
+    text-decoration: none;
+    color: #000;
+}
+
+.serv_content{
+    padding-top: 6rem;
+}
+
+.serv_content h2{
+    font-size: 30px;
+    font-family: poppins;
+    font-weight: 600;
+}
+
+.serv_content h6{
+    font-size: 20px;
+    font-family: poppins;
+    font-weight: 800;
+    color: #242929;
+}
+
+.serv_content p{
+    font-size: 17px;
+    font-family: roboto;
+    font-weight: 500;
+    color: #000;
+}
+
+.serv_content li{
+    font-size: 17px;
+    font-family: roboto;
+    font-weight: 500;
+    color: #000;
+    list-style: none;
+    padding: 10px 0px;
+
+}
+
+.serv_content span{
+    font-size: 20px;
+    font-family: roboto;
+    color: #242929;
+    font-weight: 500;
+}
+
+.serv .col-md-3{
+    padding: 20px;
+}
+
+.blogs .num{
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #198150;
+    position: relative;
+    top: -40px;
+}
+
+.blogs .box{
+    box-shadow: 0px 10px 20px 0px rgba(221, 221, 221, 0.3);
+    padding: 20px 10px;
+}
+
+.blogs .num span{
+    color: #fff;
+    font-size: 24px;
+    font-family: poppins;
+}
+
+.blogs a{
+    text-decoration: none;
+    color: #000;
+    font-size: 22px;
+    font-family: poppins;
+}

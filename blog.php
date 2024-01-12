@@ -21,7 +21,58 @@
             </div>
         </section>
 
-        
+        <section class="blogs py-5">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <div class="box">
+                  <img src="Images/blogs.png" class="img-fluid" alt="">
+                  <div class="num">
+                    <span>15Jan</span>
+                  </div>
+                  <a href="">Google inks pact for new 35-storey office</a>
+                  <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                <div class="box">
+                  <img src="Images/blogs_2.png" class="img-fluid" alt="">
+                  <div class="num">
+                    <span>15Jan</span>
+                  </div>
+                  <a href="">Google inks pact for new 35-storey office</a>
+                  <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                <div class="box">
+                  <img src="Images/blogs_3.png" class="img-fluid" alt="">
+                  <div class="num">
+                    <span>15Jan</span>
+                  </div>
+                  <a href="">Google inks pact for new 35-storey office</a>
+                  <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                <div class="box">
+                  <img src="Images/blogs_4.png" class="img-fluid" alt="">
+                  <div class="num">
+                    <span>15Jan</span>
+                  </div>
+                  <a href="">Google inks pact for new 35-storey office</a>
+                  <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
 
     </main>
 

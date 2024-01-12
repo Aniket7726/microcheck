@@ -26,9 +26,10 @@
               Services
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Urine For Culture & Sensitivity</a></li>
-              <li><a class="dropdown-item" href="#">Gram Stain / Koh / Z-N Stain</a></li>
-              <li><a class="dropdown-item" href="#">Giemsa stain For Pneumocystis Carini(Pcp)</a></li>
+              <li><a class="dropdown-item" href="urine.php">Urine For Culture & Sensitivity</a></li>
+              <li><a class="dropdown-item" href="gram.php">Gram Stain / Koh / Z-N Stain</a></li>
+              <li><a class="dropdown-item" href="giemsa.php">Giemsa stain For Pneumocystis Carini(Pcp)</a></li>
+              <li><a class="dropdown-item" href="service.php">More Services</a></li>
             </ul>
           </li>
           <li class="nav-item px-3">
